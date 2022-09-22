@@ -6,7 +6,7 @@ namespace BestPrediction
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("first commit");
+            Console.WriteLine("test commit");
         }
     }
 }
